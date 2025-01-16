@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/space-game/static/css/main.455310d0.css",
+    "main.js": "/space-game/static/js/main.4377031e.js",
+    "static/js/453.f9d9d131.chunk.js": "/space-game/static/js/453.f9d9d131.chunk.js",
+    "static/media/planet.png": "/space-game/static/media/planet.91cd5cae756461e37346.png",
+    "static/media/Ship.png": "/space-game/static/media/Ship.5a6b865c665355fc5d85.png",
+    "static/media/Base.png": "/space-game/static/media/Base.bd2deac1e29f08c81076.png",
+    "static/media/background_test.jpg": "/space-game/static/media/background_test.2c7237a4a915552783de.jpg",
+    "static/media/Probe.png": "/space-game/static/media/Probe.08e8e40aa607f8781bfe.png",
+    "index.html": "/space-game/index.html",
+    "main.455310d0.css.map": "/space-game/static/css/main.455310d0.css.map",
+    "main.4377031e.js.map": "/space-game/static/js/main.4377031e.js.map",
+    "453.f9d9d131.chunk.js.map": "/space-game/static/js/453.f9d9d131.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.455310d0.css",
+    "static/js/main.4377031e.js"
+  ]
+}
