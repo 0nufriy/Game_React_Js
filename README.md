@@ -2,12 +2,6 @@
 
 This repository contains the source code for a mobile-friendly game built with React.js. The game is optimized for touch-based interactions on smartphones, ensuring a smooth and engaging user experience.
 
-## Live Demo
-
-You can try out the game at the following link:
-
-[http://13.53.197.145:3000](http://13.53.197.145:3000)
-
 ## Features
 
 - **Mobile-Optimized Design**: The game interface is tailored for mobile devices, with responsive design and touch-friendly controls.
@@ -46,8 +40,6 @@ Start the development server with the following command:
 ```bash
 npm start
 ```
-
-The game will be accessible at [http://localhost:3000](http://localhost:3000) in your web browser.
 
 ## Deployment
 
